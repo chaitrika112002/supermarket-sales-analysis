@@ -83,15 +83,6 @@ Interactivity
 
 Enabled dynamic filtering using slicers for Customer Type and Branch
 
-🧾 File Structure
-text
-Copy
-Edit
-📁 supermarket-sales-powerbi
-├── 📊 Supermarket Sales Dashboard.pbix
-├── 📄 README.md
-├── supermarket_sales.csv
-└── 📷 supermarket-sales-dashboard.png
 🚀 How to Use
 Download or clone this repository.
 
